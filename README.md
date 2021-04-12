@@ -1,2 +1,2 @@
-# python-app
-merhabalar
+# python-appy
+iyi
